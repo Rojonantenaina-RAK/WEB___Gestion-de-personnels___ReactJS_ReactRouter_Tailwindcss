@@ -13,3 +13,5 @@ npm install
 ```bash
 npm run dev
 ```
+
+- 👉 Résultat: [http://localhost:5173](http://localhost:5173)
